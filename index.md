@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jsericksk/memezim-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsericksk/memezim-app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width"> 
+	<title>Memezim - Privacy Policy</title>
+  </head>
+  <style>
+	div {
+	   margin-top:0.2rem;
+	   padding:0.5rem;
+	   border: 1px solid #ddd;
+	}
+  </style>
+  <body>
+        <div><center>Language: <a href="/memezim-app/index.html"><b>English</b></a> | <a href="/memezim-app/privacy-policy-pt.html"><b>Portuguese</b></a></center></div>
+	<p/><p/>This page is used to inform users of the Memezim application about policies regarding the collection, use and disclosure of personal information.
+	By using this application, you consent to the collection and use of information in relation to this policy. The information collected is used to provide and improve the application. I will not use or share your information with anyone except as described in this Privacy Policy.
+	<p/><br/><b>Information Collection and Use</b>
+	<p/>For a better experience, when using my application, I may ask you to provide certain personally identifiable information. The requested information is retained on your device and is not collected by me in any way.
+	<br/>The application uses third party services that may collect information used to identify you. If you want, access the privacy policy of these services for more information:
+	<p/><a href="https://www.google.com/policies/privacy/">Google Play Services</a>
+	<br/><a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a>
+	<p/>I inform you that, whenever you use the application, in case of error, some data and information are collected (through the third party services mentioned above) from your device, the log data. This log data can include information such as the device's IP address, device name, operating system version, application configuration, service usage time and date, and other statistics.
+	<p/><br/><b>Cookies</b>
+	<p/>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. They are sent to the browser from the websites visited and stored in the device's internal memory.
+	<br/>This application does not use these cookies explicitly. However, the application may use third-party code and libraries that use cookies to collect information and improve its services.
+	<p/><br/><b>Changes to the Privacy Policy</b>
+	<p/>I may update this Privacy Policy from time to time. You will be notified of any changes. These changes take effect immediately after being posted on this page, as well as in the application.
+   </body> 
+</html>
